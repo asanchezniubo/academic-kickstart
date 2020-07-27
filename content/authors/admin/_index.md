@@ -25,7 +25,7 @@ interests:
 - Healthy ageing and mental health
 
 education:
-- courses:
+  courses:
   - course: PhD in Biostatistics
     institution: University of Barcelona
     year: 2014
