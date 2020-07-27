@@ -10,8 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-# date_format = "Jan 2006"
-date_format = "2006"
+date_format = "Jan 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -23,7 +22,7 @@ date_format = "2006"
   company = "Research group on Epidemiology of Ageing - Research Foundation Sant Joan de Deu and CIBER in Mental Health"
   company_url = ""
   location = "Barcelona"
-  date_start = "2015"
+  date_start = "Sep 2015"
   date_end = ""
   description = """
   Main projects:
@@ -38,8 +37,8 @@ date_format = "2006"
   company = "Center for Research in Occupational Health (CiSAL) - University Pompeu Fabra"
   company_url = ""
   location = "Barcelona"
-  date_start = "2014"
-  date_end = "2015"
+  date_start = "Aug 2014"
+  date_end = "Sep 2015"
   description = """
   Responsibilities included:
   
@@ -52,8 +51,8 @@ date_format = "2006"
   company = "Department of Public Health - University of Barcelona"
   company_url = ""
   location = "Barcelona"
-  date_start = "2010"
-  date_end = "2014"
+  date_start = "Jan 2010"
+  date_end = "Aug 2014"
   description = """Biostatistics in Medicine degree, Nutrition degree and Master of International Health."""
 
 [[experience]]
@@ -61,8 +60,8 @@ date_format = "2006"
   company = "Research Group of Drug Abuse Epidemiology - Mar Institute of Medical Research Foundation"
   company_url = ""
   location = "Barcelona"
-  date_start = "2008"
-  date_end = "2014"
+  date_start = "Jan 2008"
+  date_end = "Jan 2014"
   description = """
   Main projects involved:
   
@@ -77,8 +76,8 @@ date_format = "2006"
   company = "Health Services Research Group - Mar Institute of Medical Research Foundation"
   company_url = ""
   location = "Barcelona"
-  date_start = "2008"
-  date_end = "2003"
+  date_start = "Jan 2008"
+  date_end = "Aug 2003"
   description = """
   Main projects involved:
   
