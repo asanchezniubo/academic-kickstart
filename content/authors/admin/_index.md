@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Albert Sanchez-Niubo has a PhD in Biostatistics and is currently a Post-Doctoral Researcher in the Group on the Epidemiology of Aging at the Fundació Sant Joan de Déu and CIBER in Mental Health. Its main tasks are (1) to lead the work package on the data harmonisation of international studies on healthy ageing in the ATHLOS project, (2) to lead the work package on the review of harmonisation and integration methods in the SYNCHROS project, and (3) to lead the project "Cognitive impairment in depression". At the same time, he is a part-time professor of Epidemiology in Medicine at the International University of Catalonia.
