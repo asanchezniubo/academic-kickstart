@@ -27,10 +27,16 @@ subtitle = ""
   description = "90%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "head-side-mask"
   icon_pack = "fas"
   name = "Epidemiology"
   description = "90%"
+
+[[feature]]
+  icon = "chess"
+  icon_pack = "fas"
+  name = "Chess"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
