@@ -10,7 +10,8 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+# date_format = "Jan 2006"
+date_format = "2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -53,7 +54,7 @@ date_format = "Jan 2006"
   location = "Barcelona"
   date_start = "2010"
   date_end = "2014"
-  description = "Biostatistics in Medicine degree, Nutrition degree and Master of International Health."
+  description = """Biostatistics in Medicine degree, Nutrition degree and Master of International Health."""
 
 [[experience]]
   title = "Assistant researcher"
