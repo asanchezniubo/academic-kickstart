@@ -2,7 +2,7 @@
 title: "Economic crisis and changes in drug use in the Spanish economically active population."
 date: 2015-01-01
 publishDate: 2020-07-28T19:03:37.035622Z
-authors: ["Albert Sanchez-Niubo", "Colell E", "Sánchez-Niubò A", "Delclos GL", "Benavides FG", "Domingo-Salvany A"]
+authors: ["Colell E", "Sanchez-Niubo A", "Delclos GL", "Benavides FG", "Domingo-Salvany A"]
 publication_types: ["2"]
 abstract: ""
 featured: false
