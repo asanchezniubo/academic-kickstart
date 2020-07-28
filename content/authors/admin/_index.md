@@ -50,7 +50,7 @@ social:
 - icon: Researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Albert_Sanchez-Niubo/experience
-- icon: Linkeding
+- icon: Linkedin
   icon_pack: ai
   link: https://www.linkedin.com/in/albertsanchezniubo/
 # - icon: google-scholar
