@@ -15,27 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics and Epidemiology"
+  description = ""  
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "90%"  
-  
-[[feature]]
-  icon = "head-side-mask"
-  icon_pack = "fas"
-  name = "Epidemiology"
-  description = "90%"
+  description = ""
 
 [[feature]]
   icon = "chess"
   icon_pack = "fas"
-  name = "Chess"
+  name = "Chess and Go/Baduk"
   description = ""
 
 # Uncomment to use emoji icons.
