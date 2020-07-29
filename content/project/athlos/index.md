@@ -1,5 +1,5 @@
 ---
-title: Ageing Trajectories of Health: Longitudinal Opportunities and Synergies (ATHLOS)
+title: Ageing Trajectories of Health - Longitudinal Opportunities and Synergies (ATHLOS)
 summary: European Comission H2020
 tags:
 - athlos
