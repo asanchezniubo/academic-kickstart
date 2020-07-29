@@ -2,7 +2,11 @@
 title: "Multimorbidity patterns in low-middle and high income regions: a multiregion latent class analysis using ATHLOS harmonised cohorts"
 date: 2020-01-01
 publishDate: 2020-07-28T19:03:37.030554Z
+<<<<<<< HEAD
 authors: ["Albert Sanchez-Niubo", "Ivet Bayes-Marin", "Albert Sanchez-Niubo", "Laia Egea-Cortés", "Hai Nguyen", "Matthew Prina", "Daniel Fernández", "Josep Maria Haro", "Beatriz Olaya"]
+=======
+authors: ["Ivet Bayes-Marin", "Albert Sanchez-Niubo", "Laia Egea-Cortés", "Hai Nguyen", "Matthew Prina", "Daniel Fernández", "Josep Maria Haro", "Beatriz Olaya"]
+>>>>>>> fcccd1fe3d9dee13a0da1d67b752e069a50e0389
 publication_types: ["2"]
 abstract: ""
 featured: false

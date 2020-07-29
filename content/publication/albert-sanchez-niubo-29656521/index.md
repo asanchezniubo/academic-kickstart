@@ -2,7 +2,11 @@
 title: "Application of latent growth modeling to identify different working life trajectories: the case of the Spanish WORKss cohort."
 date: 2017-01-01
 publishDate: 2020-07-28T19:03:37.034981Z
+<<<<<<< HEAD
 authors: ["Albert Sanchez-Niubo", "Serra L", "López Gómez MA", "Sanchez-Niubo A", "Delclos GL", "Benavides FG"]
+=======
+authors: ["Serra L", "Lopez Gomez MA", "Sanchez-Niubo A", "Delclos GL", "Benavides FG"]
+>>>>>>> fcccd1fe3d9dee13a0da1d67b752e069a50e0389
 publication_types: ["2"]
 abstract: ""
 featured: false

@@ -2,7 +2,11 @@
 title: "Self-reported and activPALTM-monitored physical activity and sedentary behaviour in college students: Not all sitting behaviours are linked to perceived stress and anxiety"
 date: 2020-01-01
 publishDate: 2020-07-28T19:03:37.031308Z
+<<<<<<< HEAD
 authors: ["Albert Sanchez-Niubo", "Mireia Felez-Nobrega", "Judit Bort-Roig", "Laia Briones", "Albert Sanchez-Niubo", "Ai Koyanagi", "Emma Puigoriol", "Anna Puig-Ribera"]
+=======
+authors: ["Mireia Felez-Nobrega", "Judit Bort-Roig", "Laia Briones", "Albert Sanchez-Niubo", "Ai Koyanagi", "Emma Puigoriol", "Anna Puig-Ribera"]
+>>>>>>> fcccd1fe3d9dee13a0da1d67b752e069a50e0389
 publication_types: ["2"]
 abstract: ""
 featured: false
