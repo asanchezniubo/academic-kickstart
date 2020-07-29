@@ -1,5 +1,5 @@
 ---
-title: SYNergies for Cohorts in Health: integrating the ROle of all Stakeholders (SYNCHROS)
+title: SYNergies for Cohorts in Health - integrating the ROle of all Stakeholders (SYNCHROS)
 summary: European Comission H2020
 tags:
 - synchros
