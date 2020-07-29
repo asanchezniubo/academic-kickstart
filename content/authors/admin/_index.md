@@ -78,4 +78,8 @@ user_groups:
 - Visitors
 ---
 
-Albert Sanchez-Niubo has a PhD in Biostatistics and is currently a postdoctoral researcher in the Ageing Epidemiology Group at the Fundació Sant Joan de Déu and the CIBER of Mental Health. His main tasks are: 1) to lead the work package on the harmonization of data from international cohorts on healthy aging in the ATHLOS project, 2) to lead the work package on the revision of harmonization and integration methods in the SYNCHROS project, and 3) to lead the project "Cognitive impairment in depression". At the same time, he is a part-time professor of Epidemiology at the Faculty of Medicine of the International University of Catalonia.
+Albert Sanchez-Niubo has a PhD in Biostatistics and is currently a postdoctoral researcher in the Ageing Epidemiology Group at the Fundació Sant Joan de Déu and the CIBER of Mental Health. 
+His main tasks are: 
+1) to lead the work package on the harmonization of data from international cohorts on healthy aging in the ATHLOS project, 
+2) to lead the work package on the revision of harmonization and integration methods in the SYNCHROS project, and 
+3) to lead the project "Cognitive impairment in depression". At the same time, he is a part-time professor of Epidemiology at the Faculty of Medicine of the International University of Catalonia.
