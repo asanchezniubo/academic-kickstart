@@ -2,11 +2,7 @@
 title: "Cannabis use and traffic injuries."
 date: 2011-01-01
 publishDate: 2020-07-28T19:03:37.038981Z
-<<<<<<< HEAD
-authors: ["Pulido J", "Barrio G", "Lardelli P", "Bravo MJ", "Brugal MT", "Espelt A", "de la Fuente L", "Ambrós M", "Belza MJ", "Castellano Y", "Domingo-Salvany A", "Fernández F", "Molist G", "Sánchez-Niubó A", "Santos S", "Sordo L", "Vallejo F", "Itínere Project Group"]
-=======
 authors: ["Pulido J", "Barrio G", "Lardelli P", "Bravo MJ", "Brugal MT", "Espelt A", "de la Fuente L", "Ambrós M", "Belza MJ", "Castellano Y", "Domingo-Salvany A", "Fernández F", "Molist G", "Sanchez-Niubo A", "Santos S", "Sordo L", "Vallejo F", "Itínere Project Group"]
->>>>>>> fcccd1fe3d9dee13a0da1d67b752e069a50e0389
 publication_types: ["2"]
 abstract: ""
 featured: false
