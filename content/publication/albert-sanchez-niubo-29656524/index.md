@@ -2,11 +2,7 @@
 title: "Cohort profile: the Spanish WORKing life Social Security (WORKss) cohort study."
 date: 2016-01-01
 publishDate: 2020-07-28T19:03:37.035299Z
-<<<<<<< HEAD
-authors: ["Albert Sanchez-Niubo", "López Gómez MA", "Durán X", "Zaballa E", "Sanchez-Niubo A", "Delclos GL", "Benavides FG"]
-=======
 authors: ["López Gómez MA", "Durán X", "Zaballa E", "Sanchez-Niubo A", "Delclos GL", "Benavides FG"]
->>>>>>> fcccd1fe3d9dee13a0da1d67b752e069a50e0389
 publication_types: ["2"]
 abstract: ""
 featured: false
