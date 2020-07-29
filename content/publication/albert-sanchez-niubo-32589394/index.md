@@ -2,11 +2,7 @@
 title: "Initial medication non-adherence: prevalence and predictive factors in a cohort of 1.6 million primary care patients."
 date: 2017-01-01
 publishDate: 2020-07-28T19:03:37.034654Z
-<<<<<<< HEAD
-authors: ["Albert Sanchez-Niubo", "Aznar-Lou I", "Fernández A", "Gil-Girbau M", "Fajó-Pascual M", "Moreno-Peral P", "Peñarrubia-María MT", "Serrano-Blanco A", "Sánchez-Niubó A", "March-Pujol MA", "Jové AM", "Rubio-Valera M"]
-=======
 authors: ["Aznar-Lou I", "Fernández A", "Gil-Girbau M", "Fajó-Pascual M", "Moreno-Peral P", "Peñarrubia-María MT", "Serrano-Blanco A", "Sánchez-Niubó A", "March-Pujol MA", "Jové AM", "Rubio-Valera M"]
->>>>>>> fcccd1fe3d9dee13a0da1d67b752e069a50e0389
 publication_types: ["2"]
 abstract: ""
 featured: false
