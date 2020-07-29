@@ -14,7 +14,7 @@ draft: false
 image:
   placement: 3
   caption: "Strategies of harmonisation"
-  focal_point: ""
+#  focal_point: ""
 
 projects: ["synchros"]
 ---
@@ -25,5 +25,6 @@ However, the main problem is that the data collected among the different cohorts
 
 Data harmonisation is a very tedious process in terms of work and time since you need to know the cohorts thoroughly and to establish a balance between accuracy and validity when obtaining the new common variable. On the other hand, this process could be made easier if the cohorts followed standard data collection patterns and formats for future integration with data from other cohorts. This is where the SYNCHROS project wants to go. Apart from studying the existing methods, harmonisation and integration strategies will be analysed and established among stakeholders as good practice in the creation of new cohorts and future SYNCHROnisation.
 
+*This post was presented at <https://mailchi.mp/751e15c644ca/synchrosnews>*
 
-![png](./featured.png)
+# ![png](./featured.png)
